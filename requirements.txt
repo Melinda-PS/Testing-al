@@ -1,4 +1,8 @@
 streamlit
 requests
 python-dotenv
-sqlite3
+openai
+google-cloud-vision
+google-cloud-speech
+google-cloud-texttospeech
+
